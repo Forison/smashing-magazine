@@ -6,7 +6,7 @@ nav {
   position: absolute;
   top: 220px;
   text-transform: capitalize;
-  left: 509px;
+  left: 40%;
 }
 .header div {
   background: white;
@@ -31,7 +31,6 @@ nav {
   border-radius: 50%;
   margin: 20px auto;
 }
-
 .telescope-2 {
   width: 200px;
   height: 200px;
@@ -72,4 +71,48 @@ nav {
 }
 footer {
   height: 698px;
+}
+
+.col-6>h1{
+    text-align: center;
+    margin-top: 50%;
+}
+.minor-article{
+    padding:3%;
+}
+.minor-article >h2{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+}
+.minor-article >p{
+    margin-top: 50px;
+    font-size: 1.45rem;
+}
+.small-box p:first-child{
+    padding:30% 5% 3% 5%;
+    font-size: 0.95rem;
+    text-align: center;
+}
+.rectangle{
+    width: 100px;
+    height: 30px;
+    background: #999;
+    margin: 5px auto;
+}
+.big-box h3{
+    font-size: 1.5em;
+    text-align: center;
+    padding:30% 5% 3% 5%;
+}
+
+.big-box p{
+    font-size: 1em;
+    text-align: center;
+}
+h4{
+    text-align: center;
+    text-transform: uppercase;
+    border-width: 5px;
+    padding: 20px;
 }

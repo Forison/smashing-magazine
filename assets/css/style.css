@@ -3,6 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{
+    font-size: 14px;
+    font-family: 'Roboto Slab';
+}
 .row {
   display: flex;
   flex-wrap: wrap;
