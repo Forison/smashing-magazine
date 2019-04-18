@@ -27,7 +27,7 @@ $ cd smashing-magazine
 
 ## Deployment
 
-The demo page can be found [HERE](https://raw.githack.com/Forison/smashing-magazine/dev/index.html)
+The demo page can be found [HERE](https://forison.github.io/smashing-magazine/)
 
 ## Contributors
 
